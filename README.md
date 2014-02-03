@@ -7,4 +7,4 @@ As is, it's a good base for scrolling text and syncing that scrolling text with 
 
 Running the Demo
 ----
-Make sure that Python 2.7 is installed, along with the PyGame module. Then, run text.py.
+Make sure that Python 2.7 is installed, along with the [PyGame](http://pygame.org/news.html) module. Then, run text.py.
